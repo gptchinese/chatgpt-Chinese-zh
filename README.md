@@ -1,6 +1,6 @@
 # 【国内ChatGPT中文版】支持ChatGPT-4、4o，国内无限使用 【6月最新更新】 
 
-> 更新：2025/06/05   
+> 更新：2025/06/15   
 > 作者：gptchinese  
 
 想不想在国内使用 **ChatGPT中文版？支持ChatGPT-4，无限使用GPT-4o和o1、o3**   
@@ -9,7 +9,7 @@
 
 ## ChatGPT中文版：
 
-[**ChatGPT中文版**](https://chat.lanjing.pro) 是基于OpenAI的ChatGPT模型开发的中文平台，专为国内用户设计，提供便捷的使用体验。<br />
+[**ChatGPT中文版**](https://talk.lanjing.pro) 是基于OpenAI的ChatGPT模型开发的中文平台，专为国内用户设计，提供便捷的使用体验。<br />
 
 - **无需翻墙**：国内就能直接用，不需要再使用任何代理。
 - **中文优化**：提供中文界面，更好的中文语言、内容支持。
@@ -31,7 +31,7 @@
 
 ## 国内可用的 ChatGPT中文版：
 
-- [https://chat.yixiaai.com/](https://chat.lanjing.pro/) - ChatGPT中文版，通用ChatGPT，支持 GPT4、4o 以及 o1全模型，支持 AI绘画，扫码就能用~
+- [https://chat.yixiaai.com/](https://talk.lanjing.pro/) - ChatGPT中文版，通用ChatGPT，支持 GPT4、4o 以及 o1全模型，支持 AI绘画，扫码就能用~
 - [https://chat.lify.vip/](https://chat.yixiaai.com/) - ChatGPT镜像网站，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [https://guide1.lanjing.ai/](https://xsimplechat.com/) - ChatGPT镜像网站，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
